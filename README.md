@@ -1,5 +1,5 @@
 # Laptop Pricing EDA
-
+[laptop](https://github.com/ShaimaaAbdElkhalek/Data-Science-in-Action-Laptop-Pricing-EDA-Wrangling-/blob/main/data/download%20(1).jpeg?raw=true)
 This repository contains a Jupyter Notebook for exploratory data analysis (EDA) on a dataset of laptop pricing. The analysis aims to understand the relationships between various laptop features and their prices, utilizing libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and visualization.
 
 ## Table of Contents
