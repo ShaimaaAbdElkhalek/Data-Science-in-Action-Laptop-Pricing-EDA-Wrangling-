@@ -9,8 +9,7 @@ This repository contains a Jupyter Notebook for exploratory data analysis (EDA) 
 - [Visualizations](#visualizations)
 - [Final DataFrame](#final-dataframe)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+
 
 ## Dataset Overview
 
@@ -58,6 +57,7 @@ The analysis generates several visualizations to better understand the data:
 ## Final DataFrame
 
 The final version of the DataFrame includes all necessary adjustments for analysis, with categorical features transformed into indicator variables.
+## Installation
 
-```python
-print(df.head())
+pip install numpy pandas matplotlib seaborn scipy
+
